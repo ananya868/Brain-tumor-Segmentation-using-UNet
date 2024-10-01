@@ -1,0 +1,10 @@
+pandas
+numpy
+open-cv
+glob 
+seaborn 
+matplotlib
+tensorflow 
+keras 
+sklearn 
+random 
