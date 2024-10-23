@@ -37,16 +37,4 @@ Also, these are the segmented image on three test images
 - `u-net.py` Contain the Script to build architecture for U-Net
 - `README.md` This file 
 
-## **How to Use:**
-
-`Install Dependencies: Install required Python libraries using pip install -r requirements.txt (assuming a requirements.txt file exists).
-Download Dataset: Download the brain tumor dataset from Kaggle and place it in the data/ folder.
-Run Notebooks: Open the Jupyter Notebooks in your environment and execute them in the desired order (e.g., data preprocessing, training, evaluation).
-Future Work:`
-
-`Explore hyperparameter tuning techniques to potentially improve model performance.
-Integrate the model into a clinical workflow for real-world application.
-Test the model on other brain tumor datasets.
-Contribution:`
-
 Feel free to fork this repository, experiment with different hyperparameters, and contribute your findings to the project!
